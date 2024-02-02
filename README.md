@@ -15,6 +15,9 @@ The markdown document that describes the repository's overall structure and purp
 ## data.csv
 The primary dataset used for analyses within the Jupyter notebooks. Contains financial data in CSV format.
 
+## proposal.pdf
+A detailed proposal outlining the intended research or analysis methods, objectives, and expected outcomes of the project. Details in the proposal have been evolved during the course of the project, and as such, there are variations between the proposed and final implementation, as documented in the `report.pdf`.
+
 ## report.pdf
 A detailed report summarizing the findings, methodologies, and results of the financial analyses conducted in this project.
 
