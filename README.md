@@ -3,7 +3,7 @@ This is the final project of DSCC 435 Optimization for Machine Learning course, 
 
 This repository contains a collection of files for financial data analysis, portfolio optimization, and related documentation. Below is an overview of the purpose of each item:
 
-## Code Folder
+## Code
 This directory contains Jupyter notebooks that implement various financial analyses and portfolio optimization techniques based on Modern Portfolio Theory. It includes data analysis, computation of maximum Sharpe ratio portfolios, minimal risk portfolios, and risk parity strategies.
 
 ## LICENSE
