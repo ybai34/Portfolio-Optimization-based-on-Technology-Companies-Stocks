@@ -27,10 +27,6 @@ The dataset can be found on Kaggle: [Stock Market Historical Data of Top 10 Comp
 
 The `data.csv` file is utilized in various Jupyter notebooks in the main project repository to conduct financial analyses and portfolio optimizations. It is vital to ensure the integrity and consistency of this dataset for accurate results.
 
-## Contributing
-
-If you wish to contribute to the dataset or have suggestions for improvement, please refer to the main project's `README.md` file for guidelines on contributing.
-
 ## License
 
 The dataset is available under the same license as the main project. Please refer to the project's `LICENSE` file for more details (to be added by the user).
