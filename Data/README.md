@@ -31,7 +31,3 @@ The `data.csv` file is utilized in various Jupyter notebooks in the main project
 
 The dataset is available under the same license as the main project. Please refer to the project's `LICENSE` file for more details.
 
----
-
-We acknowledge the efforts of Kaggle and NASDAQ for providing the data that forms the backbone of this project's analyses.
-
