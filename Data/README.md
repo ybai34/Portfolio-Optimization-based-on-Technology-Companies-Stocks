@@ -29,7 +29,7 @@ The `data.csv` file is utilized in various Jupyter notebooks in the main project
 
 ## License
 
-The dataset is available under the same license as the main project. Please refer to the project's `LICENSE` file for more details (to be added by the user).
+The dataset is available under the same license as the main project. Please refer to the project's `LICENSE` file for more details.
 
 ---
 
