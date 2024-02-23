@@ -1,6 +1,6 @@
 # Data Directory
 
-This directory contains the dataset for the "Portfolio Optimization based on Technology Companies Stocks" project, created and analyzed by me.
+This directory contains the dataset for the "Portfolio Optimization based on Technology Companies Stocks" project.
 
 ## Dataset Overview
 
