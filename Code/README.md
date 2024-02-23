@@ -1,33 +1,39 @@
 # Code Repository
-This repository contains Jupyter notebook codes for performing various financial analyses and portfolio optimizations based on the Modern Portfolio Theory by Harry Markowitz. Below is a description of each file's purpose:
 
-## Data_Analysis.ipynb
-This notebook is used for the initial analysis of financial data. It include data cleaning, exploratory analysis, and visualization of financial time series data.
+Welcome to the Code Repository for Portfolio Optimization based on Technology Companies Stocks project. This repository is a collection of Jupyter notebooks designed to perform a variety of financial computations and optimizations to help you understand and apply the principles of Modern Portfolio Theory (MPT) to real-world data.
 
-## Markowitz_Max_Sharpe.ipynb
-This script calculates the optimal portfolio with the maximum Sharpe ratio, representing the best risk-adjusted return according to Markowitz's optimization model.
+## Repository Contents
 
-## Markowitz_companies_mean.ipynb
-This notebook intend for calculating the mean returns of the companies included in the portfolio, which is a critical input for the optimization process.
+- `Data_Analysis.ipynb`: A notebook for initial financial data analysis, including data cleaning, exploratory analysis, and visualization of financial time series data.
 
-## Markowitz_min_risk.ipynb
-The focus of this notebook is finding the minimum risk (or variance) portfolio composition, another core aspect of the Markowitz optimization framework.
+- `Markowitz_Max_Sharpe.ipynb`: A script dedicated to calculating the optimal portfolio with the maximum Sharpe ratio, showcasing the best risk-adjusted return as per Markowitz's model.
 
-## Markowitz_min_risk_1.4.ipynb
-## Markowitz_min_risk_1.6.ipynb
-## Markowitz_min_risk_1.8.ipynb
-These three notebooks are variations or versions of the minimal risk portfolio calculations, experimenting with different constraints or parameters in the optimization algorithm.
+- `Markowitz_companies_mean.ipynb`: This notebook calculates the mean returns of companies within the portfolio, a vital step for subsequent optimization processes.
 
-## Plot.ipynb
-This script is used to plot the results of the portfolio optimizations, such as the efficient frontier, individual asset risk-return profiles, and other relevant financial charts.
+- `Markowitz_min_risk.ipynb`: Focuses on assembling the minimum risk (or variance) portfolio composition, a key element of the Markowitz optimization framework.
 
-## README.md
-The markdown document you are currently reading, which provides an overview and description of the other files in the repository.
+- `Markowitz_min_risk_1.4.ipynb`
+- `Markowitz_min_risk_1.6.ipynb`
+- `Markowitz_min_risk_1.8.ipynb`: These versions of the minimal risk portfolio calculations explore different constraints and parameters within the optimization algorithm.
 
-## prox_2020.ipynb
-This code uses Proximal Gradient Method with restrictive condition basd on buying At least 20% of AAPL and 20% of META properties.
+- `Plot.ipynb`: Used for graphing the outcomes of portfolio optimizations, such as plotting the efficient frontier, each asset's risk-return profile, and other pertinent financial visuals.
 
-## risk_parity.ipynb
-This notebook involves calculations to achieve risk parity in a portfolio, a strategy that allocates capital based on the risk, ensuring that each asset contributes equally to the overall portfolio risk.
+- `prox_2020.ipynb`: Implements the Proximal Gradient Method with a restrictive condition, mandating a minimum of 20% investment in both AAPL and META stocks.
 
+- `risk_parity.ipynb`: Engages in computations to reach risk parity in a portfolio, aiming for an equal risk contribution from each asset to the total portfolio risk.
 
+## How to Use This Repository
+
+To use the notebooks in this repository, clone it to your local machine and ensure you have Jupyter installed. Each notebook is self-contained and includes comments to guide you through the processes and calculations performed. Make sure to install the necessary Python packages.
+
+## Contributing
+
+Contributions to this repository are welcome. Please ensure that you follow the existing structure and comment your code thoroughly for the benefit of all users.
+
+## License
+
+This project is licensed under the MIT License - see the `LICENSE` file for details.
+
+---
+
+Happy analyzing and optimizing!
